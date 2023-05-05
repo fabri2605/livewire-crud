@@ -13,7 +13,7 @@ class ShowPosts extends Component
     public $direction = 'asc';
 
     /* MODAL */
-    public $modal = true;
+    public $modal = false;
     public $postTitle = '';
     public $postContent = '';
     public $postId = 0;
