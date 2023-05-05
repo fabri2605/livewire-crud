@@ -1,0 +1,3 @@
+<div class="p-8 mt-2 flex items-center text-orange-300 bg-gray-800">
+    Contenido del elemento...
+</div>
