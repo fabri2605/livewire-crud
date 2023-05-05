@@ -10,7 +10,7 @@
 
 
     @if ($modal)
-        @include('livewire.create')
+        @include('livewire.practice')
     @endif
     <x-table>
         <div class="px-6 py-3 ml-3 mt-2 mb-2">

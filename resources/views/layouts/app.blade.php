@@ -16,6 +16,12 @@
 
         <!-- Styles -->
         <link rel="stylesheet" href="{{ asset('vendor/fontawesome/css/all.min.css') }}">
+        <style>
+            .modal{
+                margin: 1rem;
+                border-radius: 20px;
+            }
+        </style>
         @livewireStyles
     </head>
     <body class="font-sans antialiased">
